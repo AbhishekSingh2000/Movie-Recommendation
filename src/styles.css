@@ -1,0 +1,26 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+
+.btn {
+  margin: 5px;
+  border-color: blueviolet;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: white;
+  font-size: 1rem;
+}
+
+.list {
+  list-style: none;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 5px;
+}
