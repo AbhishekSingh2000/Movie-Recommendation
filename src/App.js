@@ -4,12 +4,17 @@ import "./styles.css";
 const AllSeries = {
   Technology: [
     { name: "The Imitation Game", rating: "4.5/5" },
+    { name: "Interstellar", rating: "5/5" },
     { name: "The Social Dilemma", rating: " 4.5/5" }
   ],
 
   Entrepreneurship: [
     {
       name: "The Founder",
+      rating: "4.5/5"
+    },
+    {
+      name: "Wolf of wall street",
       rating: "4.5/5"
     },
     {
@@ -20,6 +25,10 @@ const AllSeries = {
   Inspirational: [
     {
       name: "The Social Network",
+      rating: "4.5/5"
+    },
+    {
+      name: "Shakuntala Devi",
       rating: "4.5/5"
     },
     {
