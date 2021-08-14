@@ -3,37 +3,37 @@ import "./styles.css";
 
 const AllSeries = {
   Technology: [
-    { name: "The Imitation Game", rating: "4.5/5" },
-    { name: "Interstellar", rating: "5/5" },
-    { name: "The Social Dilemma", rating: " 4.5/5" }
+    { name: "The Imitation Game", rating: "4.5/5 - This movie is a biography about Alan Turing and his invention of world's first AI which saved the world from ongoing world War II." },
+    { name: "Interstellar", rating: "5/5 - This movie is a mind blowing movie based on the space time paradox, where the present is tried to be manipulated by the future of a person but things doesn't changes as it will change the nature and the balance of the situation." },
+    { name: "The Social Dilemma", rating: " 4.5/5 - This is a documentary moe than a movie and it tell sus the dark secrets of the social media and how it manipulate us." }
   ],
 
   Entrepreneurship: [
     {
       name: "The Founder",
-      rating: "4.5/5"
+      rating: "4.5/5 - This movie is about the founder of MacDonalds who was actually not the founder of MacDonalds! weird? Right, well this is the story of legendary Raymond Albert Kroc."
     },
     {
       name: "Wolf of wall street",
-      rating: "4.5/5"
+      rating: "4.5/5 - This movie is a story of Jordan Belfort, who made a lot of money making fool of people and ended up in jail."
     },
     {
       name: "Guru",
-      rating: "4.5/5"
+      rating: "4.5/5 - This movie is about the story of Dhirubhai Ambani, about his struggles and the will power the man had to succeed."
     }
   ],
   Inspirational: [
     {
       name: "The Social Network",
-      rating: "4.5/5"
+      rating: "4.5/5 - Story of Mark Zuckerburg, How the 19 year old sophomore who was suspended from Harward college and never went back but built one of the most Successful internet comapany. "
     },
     {
-      name: "Shakuntala Devi",
-      rating: "4.5/5"
+      name: "The White Tiger",
+      rating: "4.5/5 - Movie based out of the novel The white tiger by Aravind Adiga, the story of a bengaluru based entrepreneur who paved his path through a village which might not be even on the map of India. "
     },
     {
       name: "Jobs",
-      rating: "5/5"
+      rating: "5/5 - The story of the Legend, Steve Jobs, his life journey, his failures, his principal, the extraordinary piece."
     }
   ]
 };
